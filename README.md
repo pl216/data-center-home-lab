@@ -81,3 +81,12 @@ and successfully ran the script.
 
 ### Lab 04 — Physical Computer / Server Lab
 Status: Not Started
+
+### CCNA Networking Labs — Jeremy's IT Lab
+Status: In Progress
+
+Platform: Cisco Packet Tracer
+
+Currently completing hands-on networking labs as part of CCNA 200-301 training through Jeremy's IT Lab.
+
+Topics and completed lab exercises will be documented here as I progress through the course.
